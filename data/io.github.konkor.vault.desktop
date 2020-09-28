@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=One Vault
+Comment=Secure Open PGP File Vault
+Exec=vault
+Icon=io.github.konkor.vault
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=pass;password;notes;
+StartupNotify=true
+Name[en_US]=One Vault
